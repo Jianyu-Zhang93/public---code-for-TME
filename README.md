@@ -29,33 +29,7 @@ Requirements
 
 
 The following R packages are required to run the code:
-
-
-Seurat
-
-
-dplyr
-
-
-ggplot2
-
-
-ComplexHeatmap
-
-
-CellChat
-
-
-SingleCellExperiment
-
-
-scater
-
-
-edgeR
-
-
-limma
+Seurat; dplyr; ggplot2; ComplexHeatmap; CellChat; SingleCellExperiment; scater; edgeR; limma.
 
 
 
